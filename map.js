@@ -2,6 +2,7 @@
 
 
 //! sort() - 2parametr -- 1-a, 2-b
+//! forEach() - 2parametr -- 1-element, 2-index
 //! map() - 3parametr -- 1-element, 2-index, 3-array[]
 //! filter() - 3parametr -- 1-element, 2-index, 3-array[]
 
@@ -39,6 +40,13 @@
 //   });
 // };
 // console.log(task([1, 2, 3, 4, 5, 6, 7, 8, 9]));
+
+
+//! forEach()
+
+//? РАБОТАЕТ КАК MAP НО НЕ ВОЗВРАЩАЕТ МАССИВ
+
+
 
 //!filter
 
