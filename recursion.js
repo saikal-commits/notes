@@ -126,11 +126,11 @@
 //! 5.Факториал числа:
 // Напишите функцию, которая принимает целое число n и возвращает факториал этого числа. Факториал числа n - это произведение всех положительных целых чисел от 1 до n.
 
-function factorial(n) {
-  if (n <= 1) {
-    return 1;
-  }
-  return n * factorial(n - 1);
-}
+// function factorial(n) {
+//   if (n <= 1) {
+//     return 1;
+//   }
+//   return n * factorial(n - 1);
+// }
 
-console.clear(factorial(5));
+// console.warn(factorial(5));
