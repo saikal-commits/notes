@@ -12,6 +12,33 @@
 // }
 
 //! destructure
+//[]
+//{}
 
+//? array
+// let arr = ["Uson", "Aidai", "Umar", "Saykal"];
+// let [el1, el3] = arr;
+// console.log(el1, el3);
 
+//spread operator = ...   //!копирует все что есть внутри
+// let [...all] = arr
+// console.log([...arr]);
 
+// rest operator = ...                 //!выводит остатки
+// let [el1, el3, ...other] = arr;
+// console.log(other);
+
+//? object
+// let obj = {
+//   name: "Uson",
+//   age: 16,
+//   adress: "Bishkek",
+//   job: "Front end Developer",
+// };
+
+// let { name } = obj;
+// console.log(name);
+
+// let { name, age, adress, job } = obj;
+// name = "Umar";
+// console.log(name);
