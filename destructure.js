@@ -42,3 +42,4 @@
 // let { name, age, adress, job } = obj;
 // name = "Umar";
 // console.log(name);
+i
